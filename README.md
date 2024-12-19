@@ -22,7 +22,6 @@ The dataset used in this analysis contains information about chess games, includ
 
 Due to its large size, the dataset is not directly included in this repository. You can download it from the following link:
 
-
 [Chess Dataset (Download)](https://www.kaggle.com/datasets/arevel/chess-games/data)
 
 ---
@@ -41,16 +40,18 @@ The repository contains the following files:
    ```bash
    git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
    cd YOUR_REPOSITORY
-2. Download the chess dataset from the link provided above and place it in the same folder as the notebook.
-3. Install the required Python libraries:
-   ```bash
-   pip install pandas duckdb jupyterlab
-4.Open the Jupyter Notebook:
-   ```bash
-   jupyter lab 608_presentation.ipynb
+Download the chess dataset from the link provided above and place it in the same folder as the notebook.
 
-5. Run the notebook cell by cell to view the analysis and results.
+Install the required Python libraries:
 
+bash
+Copy code
+pip install pandas duckdb jupyterlab
+Open the Jupyter Notebook:
 
+bash
+Copy code
+jupyter lab 608_presentation.ipynb
+Ensure the dataset (chess_games.csv), notebook, and any images (e.g., row_vs_column_storage.png) are in the same folder.
 
-
+Run the notebook cell by cell to view the analysis and results.
