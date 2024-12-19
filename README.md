@@ -46,11 +46,11 @@ Install the required Python libraries:
 
 bash
 Copy code
-pip install pandas duckdb jupyterlab
+`pip install pandas duckdb jupyterlab`
 Open the Jupyter Notebook:
 
 bash
-Copy code
+
 jupyter lab 608_presentation.ipynb
 Ensure the dataset (chess_games.csv), notebook, and any images (e.g., row_vs_column_storage.png) are in the same folder.
 
