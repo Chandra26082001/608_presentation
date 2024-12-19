@@ -45,7 +45,7 @@ The repository contains the following files:
 3. Install the required Python libraries:
 
    ```bash
-   `pip install pandas duckdb jupyterlab`
+   pip install pandas duckdb jupyterlab
 
 4. Open the Jupyter Notebook:
 
