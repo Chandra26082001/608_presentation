@@ -51,8 +51,5 @@ The repository contains the following files:
 5. Run the notebook cell by cell to view the analysis and results.
 
 
-## **How to Run**
-1. Ensure the dataset (`chess_games.csv`) is in the same folder as the notebook.
-2. Run the notebook in Jupyter Lab or Jupyter Notebook.
-3. The results and performance comparisons will be displayed within the notebook.
+
 
