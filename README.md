@@ -48,6 +48,7 @@ The repository contains the following files:
 4.Open the Jupyter Notebook:
    ```bash
    jupyter lab 608_presentation.ipynb
+
 5. Run the notebook cell by cell to view the analysis and results.
 
 
