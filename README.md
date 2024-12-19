@@ -22,7 +22,7 @@ The dataset used in this analysis contains information about chess games, includ
 
 Due to its large size, the dataset is not directly included in this repository. You can download it from the following link:
 
-[Chess Dataset (Download)]([https://www.kaggle.com/datasets/arevel/chess-games/data])
+[Chess Dataset (Download)]([Chess Dataset (Download)](YOUR_DATASET_LINK_HERE))
 
 ---
 
