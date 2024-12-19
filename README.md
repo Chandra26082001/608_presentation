@@ -41,3 +41,19 @@ The repository contains the following files:
    ```bash
    git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
    cd YOUR_REPOSITORY
+2. Download the chess dataset from the link provided above and place it in the same folder as the notebook.
+3. Install the required Python libraries:
+   pip install pandas duckdb jupyterlab
+4.Open the Jupyter Notebook:
+   jupyter lab 608_presentation.ipynb
+5. Run the notebook cell by cell to view the analysis and results.
+   
+---
+
+**Markdown Cell:**
+```markdown
+## How to Run
+1. Ensure the dataset (`chess_games.csv`) is in the same folder as the notebook.
+2. Run the notebook in Jupyter Lab or Jupyter Notebook.
+3. The results and performance comparisons will be displayed within the notebook.
+
