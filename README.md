@@ -49,13 +49,9 @@ The repository contains the following files:
    ```bash
    jupyter lab 608_presentation.ipynb
 5. Run the notebook cell by cell to view the analysis and results.
-   
----
 
-**Markdown Cell:**
-```markdown
-## How to Run
-1. Ensure the dataset (`chess_games.csv`) is in the same folder as the notebook.
-2. Run the notebook in Jupyter Lab or Jupyter Notebook.
-3. The results and performance comparisons will be displayed within the notebook.
+      ## How to Run
+      1. Ensure the dataset (`chess_games.csv`) is in the same folder as the notebook.
+      2. Run the notebook in Jupyter Lab or Jupyter Notebook.
+      3. The results and performance comparisons will be displayed within the notebook.
 
