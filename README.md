@@ -43,8 +43,10 @@ The repository contains the following files:
    cd YOUR_REPOSITORY
 2. Download the chess dataset from the link provided above and place it in the same folder as the notebook.
 3. Install the required Python libraries:
+   ```bash
    pip install pandas duckdb jupyterlab
 4.Open the Jupyter Notebook:
+   ```bash
    jupyter lab 608_presentation.ipynb
 5. Run the notebook cell by cell to view the analysis and results.
    
